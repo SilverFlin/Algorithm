@@ -1,0 +1,2 @@
+# Algorithm
+Particiones Dinámicas Reubicables
